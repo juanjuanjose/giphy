@@ -1,6 +1,6 @@
 
 function cargarTendencias() {
-    const apiKey = 'TU_CLAVE_DE_API_DE_GIPHY';
+    const apiKey = 'pWyTBl9Twn7NM2jANxpEf2RO08KZwWnA';
   
   
     const apiUrl = `https://api.giphy.com/v1/gifs/trending?api_key=${apiKey}&limit=10`;
